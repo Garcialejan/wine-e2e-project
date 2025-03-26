@@ -37,3 +37,5 @@ Source-Age: 0
 [2025-03-25 21:09:13,252]: INFO: common: created directory at: artifacts]
 [2025-03-25 21:09:13,252]: INFO: common: created directory at: artifacts/data_ingestion]
 [2025-03-25 21:09:13,252]: INFO: 2060701016: File already exists]
+[2025-03-26 20:16:30,157]: INFO: main: >>>> stage Data Ingestion Stage started <<<<]
+[2025-03-26 20:16:30,157]: INFO: main: >>>> stage Data Ingestion Stage completed <<<<]
