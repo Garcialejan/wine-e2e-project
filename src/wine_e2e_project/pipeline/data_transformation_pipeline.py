@@ -27,7 +27,7 @@ class DataTransformationTrainingPipeline():
 #     try:
 #         logger.info(f">>>> stage {STAGE_NAME} started <<<<")
 #         obj = DataTransformationTrainingPipeline()
-#         obj.initiate_data_transformation
+#         obj.initiate_data_transformation()
 #         logger.info(f">>>> stage {STAGE_NAME} completed <<<<")
 #     except Exception as e:
 #         logger.exception(e)
