@@ -13,3 +13,4 @@ types-PyYAML
 fastapi
 Flask
 Flask-Cors
+dotenv

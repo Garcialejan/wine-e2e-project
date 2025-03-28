@@ -236,3 +236,370 @@ Source-Age: 0
 [2025-03-27 19:58:16,074]: INFO: common: created directory at: artifacts]
 [2025-03-27 19:58:16,075]: INFO: common: created directory at: artifacts/model_trainer]
 [2025-03-27 19:58:16,092]: INFO: main: >>>> stage Model Training Stage completed <<<<]
+[2025-03-28 19:53:50,284]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 19:53:50,285]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 19:53:50,287]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 19:53:50,288]: INFO: common: created directory at: artifacts]
+[2025-03-28 19:53:50,288]: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-28 20:00:57,955]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:00:57,956]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:00:57,957]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:00:57,958]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:00:57,959]: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-28 20:04:18,162]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:04:18,163]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:04:18,165]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:04:18,166]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:04:18,166]: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-28 20:05:19,722]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:05:19,723]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:05:19,725]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:05:19,725]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:05:19,726]: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-28 20:17:02,673]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:17:02,674]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:17:02,676]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:17:02,677]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:17:02,677]: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-28 20:17:34,114]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:17:34,114]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:17:34,115]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:17:34,117]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:17:34,118]: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-28 20:17:34,377]: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-03-28 20:23:41,355]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:23:41,356]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:23:41,357]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:23:41,358]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:23:41,359]: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-28 20:23:41,556]: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-03-28 20:24:41,391]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:24:41,392]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:24:41,394]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:24:41,394]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:24:41,395]: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-28 20:24:41,597]: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-03-28 20:30:22,381]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:30:22,382]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:30:22,384]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:30:22,385]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:30:22,385]: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-28 20:30:23,699]: INFO: common: json file saved at: artifacts\model_evaluation\metrics.json]
+[2025-03-28 20:38:10,559]: INFO: main: >>>> stage Data Ingestion Stage started <<<<]
+[2025-03-28 20:38:10,561]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:38:10,562]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:38:10,563]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:38:10,563]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:38:10,564]: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-28 20:38:10,564]: INFO: data_ingestion: File already exists]
+[2025-03-28 20:38:10,575]: INFO: main: >>>> stage Data Ingestion Stage completed <<<<]
+[2025-03-28 20:38:10,575]: INFO: main: >>>> stage Data Validation Stage started <<<<]
+[2025-03-28 20:38:10,577]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:38:10,577]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:38:10,578]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:38:10,578]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:38:10,578]: INFO: common: created directory at: artifacts/data_validation]
+[2025-03-28 20:38:10,590]: INFO: main: >>>> stage Data Validation Stage completed <<<<]
+[2025-03-28 20:38:10,590]: INFO: main: >>>> stage Data Transformation Stage started <<<<]
+[2025-03-28 20:38:10,595]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:38:10,596]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:38:10,597]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:38:10,597]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:38:10,597]: INFO: common: created directory at: artifacts/data_transformation]
+[2025-03-28 20:38:10,608]: INFO: data_transformation: Splited data into training and test sets]
+[2025-03-28 20:38:10,609]: INFO: data_transformation: (1199, 12)]
+[2025-03-28 20:38:10,609]: INFO: data_transformation: (400, 12)]
+[2025-03-28 20:38:10,609]: INFO: main: >>>> stage Data Transformation Stage completed <<<<]
+[2025-03-28 20:38:10,609]: INFO: main: >>>> stage Model Training Stage started <<<<]
+[2025-03-28 20:38:10,611]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:38:10,612]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:38:10,613]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:38:10,613]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:38:10,613]: INFO: common: created directory at: artifacts/model_trainer]
+[2025-03-28 20:38:10,632]: INFO: main: >>>> stage Model Training Stage completed <<<<]
+[2025-03-28 20:38:10,632]: INFO: main: >>>> stage Model Evaluation Stage started <<<<]
+[2025-03-28 20:38:10,634]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:38:10,634]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:38:10,635]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:38:10,636]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:38:10,636]: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-28 20:38:10,636]: ERROR: main: 'ModelEvaluation' object has no attribute 'train']
+Traceback (most recent call last):
+  File "c:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\main.py", line 52, in <module>
+    obj.initiate_model_evaluation()
+  File "c:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\src\wine_e2e_project\pipeline\model_evaluation_pipeline.py", line 15, in initiate_model_evaluation
+    model_evaluation.train()
+    ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'ModelEvaluation' object has no attribute 'train'
+[2025-03-28 20:38:52,256]: INFO: main: >>>> stage Data Ingestion Stage started <<<<]
+[2025-03-28 20:38:52,258]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:38:52,259]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:38:52,260]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:38:52,260]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:38:52,261]: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-28 20:38:52,261]: INFO: data_ingestion: File already exists]
+[2025-03-28 20:38:52,262]: INFO: main: >>>> stage Data Ingestion Stage completed <<<<]
+[2025-03-28 20:38:52,263]: INFO: main: >>>> stage Data Validation Stage started <<<<]
+[2025-03-28 20:38:52,264]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:38:52,265]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:38:52,266]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:38:52,266]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:38:52,266]: INFO: common: created directory at: artifacts/data_validation]
+[2025-03-28 20:38:52,279]: INFO: main: >>>> stage Data Validation Stage completed <<<<]
+[2025-03-28 20:38:52,279]: INFO: main: >>>> stage Data Transformation Stage started <<<<]
+[2025-03-28 20:38:52,282]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:38:52,282]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:38:52,282]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:38:52,283]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:38:52,283]: INFO: common: created directory at: artifacts/data_transformation]
+[2025-03-28 20:38:52,293]: INFO: data_transformation: Splited data into training and test sets]
+[2025-03-28 20:38:52,293]: INFO: data_transformation: (1199, 12)]
+[2025-03-28 20:38:52,293]: INFO: data_transformation: (400, 12)]
+[2025-03-28 20:38:52,293]: INFO: main: >>>> stage Data Transformation Stage completed <<<<]
+[2025-03-28 20:38:52,293]: INFO: main: >>>> stage Model Training Stage started <<<<]
+[2025-03-28 20:38:52,295]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:38:52,295]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:38:52,296]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:38:52,297]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:38:52,297]: INFO: common: created directory at: artifacts/model_trainer]
+[2025-03-28 20:38:52,315]: INFO: main: >>>> stage Model Training Stage completed <<<<]
+[2025-03-28 20:38:52,315]: INFO: main: >>>> stage Model Evaluation Stage started <<<<]
+[2025-03-28 20:38:52,316]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:38:52,317]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:38:52,318]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:38:52,319]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:38:52,319]: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-28 20:38:52,942]: ERROR: main: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 404 != 200. Response body: '']
+Traceback (most recent call last):
+  File "c:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\main.py", line 52, in <module>
+    obj.initiate_model_evaluation()
+  File "c:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\src\wine_e2e_project\pipeline\model_evaluation_pipeline.py", line 15, in initiate_model_evaluation
+    model_evaluation.log_into_mlflow()
+  File "c:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\src\wine_e2e_project\components\model_evaluation.py", line 35, in log_into_mlflow
+    with mlflow.start_run(run_name="ElasticNet wine-project"):
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\tracking\fluent.py", line 446, in start_run
+    active_run_obj = client.create_run(
+                     ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\tracking\client.py", line 418, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 170, in create_run
+    return self.store.create_run(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\store\tracking\rest_store.py", line 220, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\store\tracking\rest_store.py", line 90, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\utils\rest_utils.py", line 392, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\utils\rest_utils.py", line 255, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 404 != 200. Response body: ''
+[2025-03-28 20:40:48,644]: INFO: main: >>>> stage Data Ingestion Stage started <<<<]
+[2025-03-28 20:40:48,646]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:40:48,646]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:40:48,647]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:40:48,648]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:40:48,648]: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-28 20:40:48,648]: INFO: data_ingestion: File already exists]
+[2025-03-28 20:40:48,650]: INFO: main: >>>> stage Data Ingestion Stage completed <<<<]
+[2025-03-28 20:40:48,650]: INFO: main: >>>> stage Data Validation Stage started <<<<]
+[2025-03-28 20:40:48,650]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:40:48,652]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:40:48,653]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:40:48,653]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:40:48,653]: INFO: common: created directory at: artifacts/data_validation]
+[2025-03-28 20:40:48,666]: INFO: main: >>>> stage Data Validation Stage completed <<<<]
+[2025-03-28 20:40:48,666]: INFO: main: >>>> stage Data Transformation Stage started <<<<]
+[2025-03-28 20:40:48,668]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:40:48,668]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:40:48,669]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:40:48,669]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:40:48,669]: INFO: common: created directory at: artifacts/data_transformation]
+[2025-03-28 20:40:48,680]: INFO: data_transformation: Splited data into training and test sets]
+[2025-03-28 20:40:48,680]: INFO: data_transformation: (1199, 12)]
+[2025-03-28 20:40:48,680]: INFO: data_transformation: (400, 12)]
+[2025-03-28 20:40:48,681]: INFO: main: >>>> stage Data Transformation Stage completed <<<<]
+[2025-03-28 20:40:48,681]: INFO: main: >>>> stage Model Training Stage started <<<<]
+[2025-03-28 20:40:48,682]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:40:48,683]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:40:48,684]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:40:48,684]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:40:48,684]: INFO: common: created directory at: artifacts/model_trainer]
+[2025-03-28 20:40:48,703]: INFO: main: >>>> stage Model Training Stage completed <<<<]
+[2025-03-28 20:40:48,703]: INFO: main: >>>> stage Model Evaluation Stage started <<<<]
+[2025-03-28 20:40:48,704]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:40:48,705]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:40:48,706]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:40:48,706]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:40:48,706]: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-28 20:40:49,375]: ERROR: main: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 404 != 200. Response body: '']
+Traceback (most recent call last):
+  File "c:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\main.py", line 52, in <module>
+    obj.initiate_model_evaluation()
+  File "c:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\src\wine_e2e_project\pipeline\model_evaluation_pipeline.py", line 15, in initiate_model_evaluation
+    model_evaluation.log_into_mlflow()
+  File "c:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\src\wine_e2e_project\components\model_evaluation.py", line 37, in log_into_mlflow
+    with mlflow.start_run(run_name="ElasticNet wine-project"):
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\tracking\fluent.py", line 446, in start_run
+    active_run_obj = client.create_run(
+                     ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\tracking\client.py", line 418, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 170, in create_run
+    return self.store.create_run(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\store\tracking\rest_store.py", line 220, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\store\tracking\rest_store.py", line 90, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\utils\rest_utils.py", line 392, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\utils\rest_utils.py", line 255, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 404 != 200. Response body: ''
+[2025-03-28 20:43:46,446]: INFO: main: >>>> stage Data Ingestion Stage started <<<<]
+[2025-03-28 20:43:46,448]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:43:46,449]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:43:46,450]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:43:46,450]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:43:46,450]: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-28 20:43:46,450]: INFO: data_ingestion: File already exists]
+[2025-03-28 20:43:46,452]: INFO: main: >>>> stage Data Ingestion Stage completed <<<<]
+[2025-03-28 20:43:46,452]: INFO: main: >>>> stage Data Validation Stage started <<<<]
+[2025-03-28 20:43:46,454]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:43:46,454]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:43:46,455]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:43:46,456]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:43:46,456]: INFO: common: created directory at: artifacts/data_validation]
+[2025-03-28 20:43:46,469]: INFO: main: >>>> stage Data Validation Stage completed <<<<]
+[2025-03-28 20:43:46,470]: INFO: main: >>>> stage Data Transformation Stage started <<<<]
+[2025-03-28 20:43:46,472]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:43:46,472]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:43:46,473]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:43:46,473]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:43:46,474]: INFO: common: created directory at: artifacts/data_transformation]
+[2025-03-28 20:43:46,484]: INFO: data_transformation: Splited data into training and test sets]
+[2025-03-28 20:43:46,485]: INFO: data_transformation: (1199, 12)]
+[2025-03-28 20:43:46,485]: INFO: data_transformation: (400, 12)]
+[2025-03-28 20:43:46,485]: INFO: main: >>>> stage Data Transformation Stage completed <<<<]
+[2025-03-28 20:43:46,485]: INFO: main: >>>> stage Model Training Stage started <<<<]
+[2025-03-28 20:43:46,487]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:43:46,487]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:43:46,488]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:43:46,488]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:43:46,488]: INFO: common: created directory at: artifacts/model_trainer]
+[2025-03-28 20:43:46,510]: INFO: main: >>>> stage Model Training Stage completed <<<<]
+[2025-03-28 20:43:46,510]: INFO: main: >>>> stage Model Evaluation Stage started <<<<]
+[2025-03-28 20:43:46,512]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:43:46,513]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:43:46,513]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:43:46,514]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:43:46,514]: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-28 20:43:47,070]: ERROR: main: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: '']
+Traceback (most recent call last):
+  File "c:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\main.py", line 52, in <module>
+    obj.initiate_model_evaluation()
+  File "c:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\src\wine_e2e_project\pipeline\model_evaluation_pipeline.py", line 15, in initiate_model_evaluation
+    model_evaluation.log_into_mlflow()
+  File "c:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\src\wine_e2e_project\components\model_evaluation.py", line 37, in log_into_mlflow
+    with mlflow.start_run(run_name="ElasticNet wine-project"):
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\tracking\fluent.py", line 446, in start_run
+    active_run_obj = client.create_run(
+                     ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\tracking\client.py", line 418, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 170, in create_run
+    return self.store.create_run(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\store\tracking\rest_store.py", line 220, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\store\tracking\rest_store.py", line 90, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\utils\rest_utils.py", line 392, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\utils\rest_utils.py", line 255, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: ''
+[2025-03-28 20:44:34,814]: INFO: main: >>>> stage Data Ingestion Stage started <<<<]
+[2025-03-28 20:44:34,816]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:44:34,817]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:44:34,817]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:44:34,817]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:44:34,818]: INFO: common: created directory at: artifacts/data_ingestion]
+[2025-03-28 20:44:34,818]: INFO: data_ingestion: File already exists]
+[2025-03-28 20:44:34,819]: INFO: main: >>>> stage Data Ingestion Stage completed <<<<]
+[2025-03-28 20:44:34,819]: INFO: main: >>>> stage Data Validation Stage started <<<<]
+[2025-03-28 20:44:34,821]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:44:34,821]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:44:34,823]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:44:34,823]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:44:34,823]: INFO: common: created directory at: artifacts/data_validation]
+[2025-03-28 20:44:34,835]: INFO: main: >>>> stage Data Validation Stage completed <<<<]
+[2025-03-28 20:44:34,835]: INFO: main: >>>> stage Data Transformation Stage started <<<<]
+[2025-03-28 20:44:34,837]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:44:34,838]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:44:34,838]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:44:34,839]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:44:34,839]: INFO: common: created directory at: artifacts/data_transformation]
+[2025-03-28 20:44:34,849]: INFO: data_transformation: Splited data into training and test sets]
+[2025-03-28 20:44:34,849]: INFO: data_transformation: (1199, 12)]
+[2025-03-28 20:44:34,849]: INFO: data_transformation: (400, 12)]
+[2025-03-28 20:44:34,850]: INFO: main: >>>> stage Data Transformation Stage completed <<<<]
+[2025-03-28 20:44:34,850]: INFO: main: >>>> stage Model Training Stage started <<<<]
+[2025-03-28 20:44:34,852]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:44:34,852]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:44:34,854]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:44:34,854]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:44:34,854]: INFO: common: created directory at: artifacts/model_trainer]
+[2025-03-28 20:44:34,873]: INFO: main: >>>> stage Model Training Stage completed <<<<]
+[2025-03-28 20:44:34,873]: INFO: main: >>>> stage Model Evaluation Stage started <<<<]
+[2025-03-28 20:44:34,875]: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2025-03-28 20:44:34,876]: INFO: common: yaml file: params.yaml loaded successfully]
+[2025-03-28 20:44:34,877]: INFO: common: yaml file: schema.yaml loaded successfully]
+[2025-03-28 20:44:34,877]: INFO: common: created directory at: artifacts]
+[2025-03-28 20:44:34,878]: INFO: common: created directory at: artifacts/model_evaluation]
+[2025-03-28 20:44:35,623]: ERROR: main: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: '']
+Traceback (most recent call last):
+  File "c:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\main.py", line 52, in <module>
+    obj.initiate_model_evaluation()
+  File "c:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\src\wine_e2e_project\pipeline\model_evaluation_pipeline.py", line 15, in initiate_model_evaluation
+    model_evaluation.log_into_mlflow()
+  File "c:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\src\wine_e2e_project\components\model_evaluation.py", line 37, in log_into_mlflow
+    with mlflow.start_run(run_name="ElasticNet wine-project"):
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\tracking\fluent.py", line 446, in start_run
+    active_run_obj = client.create_run(
+                     ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\tracking\client.py", line 418, in create_run
+    return self._tracking_client.create_run(experiment_id, start_time, tags, run_name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\tracking\_tracking_service\client.py", line 170, in create_run
+    return self.store.create_run(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\store\tracking\rest_store.py", line 220, in create_run
+    response_proto = self._call_endpoint(CreateRun, req_body)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\store\tracking\rest_store.py", line 90, in _call_endpoint
+    return call_endpoint(self.get_host_creds(), endpoint, method, json_body, response_proto)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\utils\rest_utils.py", line 392, in call_endpoint
+    response = verify_rest_response(response, endpoint)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Alejandro\Desktop\Proyectos_personales_github\End_to_end_projects\wine-e2e-project\venv\Lib\site-packages\mlflow\utils\rest_utils.py", line 255, in verify_rest_response
+    raise MlflowException(
+mlflow.exceptions.MlflowException: API request to endpoint /api/2.0/mlflow/runs/create failed with error code 403 != 200. Response body: ''
