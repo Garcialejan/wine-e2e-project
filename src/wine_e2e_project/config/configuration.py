@@ -10,7 +10,7 @@ from src.wine_e2e_project.entity.config_entity import \
 
 class ConfigurationManager():
     def __init__(self,
-                 config_filepath=CONFIG_FILE_PATH, #definend in constants directory
+                 config_filepath = CONFIG_FILE_PATH, #definend in constants directory
                  params_filepath = PARAMS_FILE_PATH,
                  schema_filepath = SCHEMA_FILE_PATH):
         

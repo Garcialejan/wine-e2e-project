@@ -7,11 +7,20 @@ import mlflow.sklearn
 from mlflow.models import infer_signature
 import numpy as np
 import joblib
+
 from pathlib import Path
 
 from src.wine_e2e_project.entity.config_entity import ModelEvaluationConfig
 from src.wine_e2e_project.constants import *
 from src.wine_e2e_project.utils.common import save_json
+
+# Setting the environment variables into the code
+os.environ["MLFLOW_TRACKING_URI"] = "https://dagshub.com/garcialejan/wine-e2e-project.mlflow"
+os.environ["MLFLOW_TRACKING_USERNAME"] = "garcialejan"
+
+from dotenv import load_dotenv
+load_dotenv()
+os.environ["MLFLOW_TRACKING_PASSWORD"] = os.getenv("MLFLOW_TRACKING_PASSWORD")
 
 class ModelEvaluation():
     def __init__(self, config: ModelEvaluationConfig):
